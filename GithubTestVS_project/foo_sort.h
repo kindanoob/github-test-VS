@@ -5,5 +5,5 @@
 
 void FooSort(std::vector<int>& v);
 
-#endif // !FOO_SORT_H_
+#endif // FOO_SORT_H_
 
